@@ -1,5 +1,3 @@
-// Adam Geppert, Piotr Bodnar Grupa 7
-
 #pragma once
 #include <stdint.h>
 #define FRAME_DATA_LEN 1024
