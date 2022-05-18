@@ -1,5 +1,3 @@
-// Adam Geppert, Piotr Bodnar Grupa 7
-
 #include <iostream>
 #include <thread> 
 #include "Server.h"
