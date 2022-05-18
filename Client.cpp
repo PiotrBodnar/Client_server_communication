@@ -1,5 +1,3 @@
-// Adam Geppert, Piotr Bodnar Grupa 7
-
 #include "Client.h"
 #include "Frame.h"
 #include "BinFile.h"
